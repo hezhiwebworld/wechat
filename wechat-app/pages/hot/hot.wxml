@@ -1,0 +1,33 @@
+<!--pages/hot/hot.wxml-->
+<view class='contain'>
+  <view class='item_wrap'>
+    <view class='title'>小程序审核终于通过了</view>
+    <view class='resume'><text >作者： </text> <text>游戏爱好者</text><text>2018-5-30 00：00：00</text></view>
+    <view class='content'>框架的核心是一个响应的数据绑定系统。
+
+整个系统分为两块视图层（View）和逻辑层（App Service）
+
+框架可以让数据与视图非常简单地保持同步。当做数据修改的时候，只需要在逻辑层修改数据，视图层就会做相应的更新。</view>
+
+</view>
+<view  class='at_bottom'>
+<text class='at_bottom'>6赞</text><text class='at_bottom'>1评论</text><text class='at_bottom'>337浏览</text>
+</view>
+
+
+ <view class='item_wrap'>
+    <view class='title'>小程序审核终于通过了</view>
+    <view class='resume'><text >作者： </text> <text>游戏爱好者</text><text>2018-5-30 00：00：00</text></view>
+    <view class='content'>框架的核心是一个响应的数据绑定系统。
+
+整个系统分为两块视图层（View）和逻辑层（App Service）
+
+框架可以让数据与视图非常简单地保持同步。当做数据修改的时候，只需要在逻辑层修改数据，视图层就会做相应的更新。</view>
+
+</view>
+<view  class='at_bottom'>
+<text class='at_bottom'>6赞</text><text class='at_bottom'>1评论</text><text class='at_bottom'>337浏览</text>
+</view>
+
+
+</view>

@@ -1,0 +1,30 @@
+<view class='contain'>
+<text class='about'>关于作者</text>
+<view class='item'>
+  <text>姓名:</text><text>黑小白的烦恼</text>
+</view>
+<view class='item'>
+  <text>年龄:</text><text>1993.01</text>
+</view>
+<view class='item'>
+  <text>职业:</text><text>计算机业余爱好者</text>
+</view>
+<view class='item'>
+  <text>Github:</text><text class='gt'>@hezhiwebworld</text>
+</view>
+<view class='item'>
+  <text>技能:</text>
+      <view class='power_wrap'>
+      <view class='power'>计算机业余爱好者</view>
+      <view class='power'>计算机业余爱好者</view>
+      </view>
+</view>
+<!--关于网站  -->
+<text class='about'>关于网站</text>
+<text class='site'>
+  本站服务端采用python3.6 + mqsql + django2.0 搭建；
+  采用前后端分离的方式
+  主要功能： 管理员,文章
+  前端采用：小程序，h5，app（weex）
+</text>
+</view>

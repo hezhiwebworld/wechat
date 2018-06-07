@@ -1,0 +1,20 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+} 
+
+
+@font-face {
+  font-family: 'iconfont';  /* project id 395479 */
+  src: url('//at.alicdn.com/t/font_395479_bdy4v1xs4efusor.eot');
+  src: url('//at.alicdn.com/t/font_395479_bdy4v1xs4efusor.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_395479_bdy4v1xs4efusor.woff') format('woff'),
+  url('//at.alicdn.com/t/font_395479_bdy4v1xs4efusor.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_395479_bdy4v1xs4efusor.svg#iconfont') format('svg');
+}
